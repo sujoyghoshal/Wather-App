@@ -13,5 +13,5 @@ The Weather App is a web application built using HTML, CSS, and JavaScript that 
 
 ## API
 
-The app utilizes the [WeatherAPI](https://www.weatherapi.com/) to fetch current weather data. The API endpoint used is:
+The app utilizes the [WeatherAPI](https://www.weatherapi.com/) to fetch current weather data. The API endpoint used is
 
